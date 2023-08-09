@@ -1,0 +1,17 @@
+.recipe-img {
+    height: auto;
+    width: 500px;
+}
+
+hr {
+    width: 800px;
+    margin: 0px;
+}
+
+.recipe-list {
+    width: 700px;
+}
+
+* {
+    font-family: Helvetica, sans-serif;
+}
